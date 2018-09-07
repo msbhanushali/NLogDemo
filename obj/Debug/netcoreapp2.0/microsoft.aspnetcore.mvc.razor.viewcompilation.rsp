@@ -1,0 +1,12 @@
+D:\Projects\Nlogdemo
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=Nlogdemo
+--content-root=D:\Projects\Nlogdemo
+--file=D:\Projects\Nlogdemo\Views\Home\About.cshtml
+--file=D:\Projects\Nlogdemo\Views\Home\Contact.cshtml
+--file=D:\Projects\Nlogdemo\Views\Home\Index.cshtml
+--file=D:\Projects\Nlogdemo\Views\Shared\Error.cshtml
+--file=D:\Projects\Nlogdemo\Views\Shared\_Layout.cshtml
+--file=D:\Projects\Nlogdemo\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Projects\Nlogdemo\Views\_ViewImports.cshtml
+--file=D:\Projects\Nlogdemo\Views\_ViewStart.cshtml

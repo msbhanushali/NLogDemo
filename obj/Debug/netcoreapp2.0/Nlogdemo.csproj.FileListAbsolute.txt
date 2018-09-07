@@ -1,0 +1,12 @@
+D:\Projects\Nlogdemo\bin\Debug\netcoreapp2.0\nlog.config
+D:\Projects\Nlogdemo\bin\Debug\netcoreapp2.0\Nlogdemo.deps.json
+D:\Projects\Nlogdemo\bin\Debug\netcoreapp2.0\Nlogdemo.runtimeconfig.json
+D:\Projects\Nlogdemo\bin\Debug\netcoreapp2.0\Nlogdemo.runtimeconfig.dev.json
+D:\Projects\Nlogdemo\bin\Debug\netcoreapp2.0\Nlogdemo.dll
+D:\Projects\Nlogdemo\bin\Debug\netcoreapp2.0\Nlogdemo.pdb
+D:\Projects\Nlogdemo\obj\Debug\netcoreapp2.0\Nlogdemo.csproj.CoreCompileInputs.cache
+D:\Projects\Nlogdemo\obj\Debug\netcoreapp2.0\Nlogdemo.AssemblyInfoInputs.cache
+D:\Projects\Nlogdemo\obj\Debug\netcoreapp2.0\Nlogdemo.AssemblyInfo.cs
+D:\Projects\Nlogdemo\obj\Debug\netcoreapp2.0\Nlogdemo.dll
+D:\Projects\Nlogdemo\obj\Debug\netcoreapp2.0\Nlogdemo.pdb
+D:\Projects\Nlogdemo\obj\Debug\netcoreapp2.0\Nlogdemo.csprojAssemblyReference.cache

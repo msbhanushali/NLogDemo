@@ -1,0 +1,40 @@
+{ "time": "2018-07-22 01:32:03.1070", "level": "DEBUG", "nested": { "message": "init main" } }
+{ "time": "2018-07-22 01:32:06.3975", "level": "INFO", "nested": { "message": "User profile is available. Using 'C:\\Users\\mbhanushali\\AppData\\Local\\ASP.NET\\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest." } }
+{ "time": "2018-07-22 01:32:08.8998", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/  " } }
+{ "time": "2018-07-22 01:32:10.0796", "level": "INFO", "nested": { "message": "Executing action method Nlogdemo.Controllers.HomeController.Index (Nlogdemo) with arguments ((null)) - ModelState is Valid" } }
+{ "time": "2018-07-22 01:32:10.0796", "level": "INFO", "nested": { "message": "Index page says hey man" } }
+{ "time": "2018-07-22 01:32:15.7823", "level": "INFO", "nested": { "message": "Executing ViewResult, running view at path \/Views\/Home\/Index.cshtml." } }
+{ "time": "2018-07-22 01:32:16.1318", "level": "INFO", "nested": { "message": "Executed action Nlogdemo.Controllers.HomeController.Index (Nlogdemo) in 6059.3831ms" } }
+{ "time": "2018-07-22 01:32:16.1366", "level": "INFO", "nested": { "message": "Request finished in 7237.4001ms 200 text\/html; charset=utf-8" } }
+{ "time": "2018-07-22 01:32:17.7207", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/images\/banner1.svg  " } }
+{ "time": "2018-07-22 01:32:17.7207", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/images\/banner2.svg  " } }
+{ "time": "2018-07-22 01:32:17.7207", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/css\/site.css  " } }
+{ "time": "2018-07-22 01:32:17.7207", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/lib\/bootstrap\/dist\/css\/bootstrap.css  " } }
+{ "time": "2018-07-22 01:32:17.7294", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/lib\/bootstrap\/dist\/css\/bootstrap.css'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css'" } }
+{ "time": "2018-07-22 01:32:17.7207", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/images\/banner2.svg'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\images\\banner2.svg'" } }
+{ "time": "2018-07-22 01:32:17.7207", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/css\/site.css'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\css\\site.css'" } }
+{ "time": "2018-07-22 01:32:17.7207", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/images\/banner1.svg'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\images\\banner1.svg'" } }
+{ "time": "2018-07-22 01:32:17.7437", "level": "INFO", "nested": { "message": "Request finished in 20.8863ms 200 text\/css" } }
+{ "time": "2018-07-22 01:32:17.8597", "level": "INFO", "nested": { "message": "Request finished in 138.9678ms 200 image\/svg+xml" } }
+{ "time": "2018-07-22 01:32:17.8668", "level": "INFO", "nested": { "message": "Request finished in 146.0062ms 200 image\/svg+xml" } }
+{ "time": "2018-07-22 01:32:17.8668", "level": "INFO", "nested": { "message": "Request finished in 156.6944ms 200 text\/css" } }
+{ "time": "2018-07-22 01:32:18.0552", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/lib\/jquery\/dist\/jquery.js  " } }
+{ "time": "2018-07-22 01:32:18.0552", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/lib\/jquery\/dist\/jquery.js'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\lib\\jquery\\dist\\jquery.js'" } }
+{ "time": "2018-07-22 01:32:18.0552", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/lib\/bootstrap\/dist\/js\/bootstrap.js  " } }
+{ "time": "2018-07-22 01:32:18.0552", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/lib\/bootstrap\/dist\/js\/bootstrap.js'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js'" } }
+{ "time": "2018-07-22 01:32:18.0552", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/js\/site.js?v=ji3-IxbEzYWjzzLCGkF1KDjrT2jLbbrSYXw-AhMPNIA  " } }
+{ "time": "2018-07-22 01:32:18.0552", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/js\/site.js'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\js\\site.js'" } }
+{ "time": "2018-07-22 01:32:18.0552", "level": "INFO", "nested": { "message": "Request finished in 2.7981ms 200 application\/javascript" } }
+{ "time": "2018-07-22 01:32:18.2449", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/images\/banner3.svg  " } }
+{ "time": "2018-07-22 01:32:18.2449", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/images\/banner3.svg'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\images\\banner3.svg'" } }
+{ "time": "2018-07-22 01:32:18.2708", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/images\/banner4.svg  " } }
+{ "time": "2018-07-22 01:32:18.2708", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/images\/banner4.svg'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\images\\banner4.svg'" } }
+{ "time": "2018-07-22 01:32:18.3406", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/lib\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff2  " } }
+{ "time": "2018-07-22 01:32:18.3406", "level": "INFO", "nested": { "message": "Sending file. Request path: '\/lib\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff2'. Physical path: 'D:\\Projects\\Nlogdemo\\wwwroot\\lib\\bootstrap\\dist\\fonts\\glyphicons-halflings-regular.woff2'" } }
+{ "time": "2018-07-22 01:32:18.4166", "level": "INFO", "nested": { "message": "Request finished in 145.6653ms 200 image\/svg+xml" } }
+{ "time": "2018-07-22 01:32:18.4166", "level": "INFO", "nested": { "message": "Request finished in 183.6173ms 200 image\/svg+xml" } }
+{ "time": "2018-07-22 01:32:18.4362", "level": "INFO", "nested": { "message": "Request finished in 377.1883ms 200 application\/javascript" } }
+{ "time": "2018-07-22 01:32:18.4477", "level": "INFO", "nested": { "message": "Request finished in 107.0571ms 200 font\/woff2" } }
+{ "time": "2018-07-22 01:32:18.4477", "level": "INFO", "nested": { "message": "Request finished in 394.0487ms 200 application\/javascript" } }
+{ "time": "2018-07-22 01:32:19.9227", "level": "INFO", "nested": { "message": "Request starting HTTP\/1.1 GET http:\/\/localhost:5000\/service-worker.js  " } }
+{ "time": "2018-07-22 01:32:19.9227", "level": "INFO", "nested": { "message": "Request finished in 2.0542ms 404 " } }
